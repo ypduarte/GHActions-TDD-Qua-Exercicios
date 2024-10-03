@@ -31,4 +31,4 @@ jobs:
 
     steps:
       - name: Sucesso
-        uses: echo "Deploying..."
+        run: echo "Deploying..."
